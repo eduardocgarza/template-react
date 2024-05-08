@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+button:focus,
+input:focus,
+textarea:focus {
+  outline: none;
+}
