@@ -22,7 +22,7 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "^6.23.0",
     "react-scripts": "^5.0.1",
-    "sort-by": "^1.2.0",
+    "sort-by": "^0.0.2",
     "web-vitals": "^3.5.2"
   },
   "devDependencies": {
